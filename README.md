@@ -12,4 +12,4 @@ Website has functioning links, accessible alt attributes, is in sequential order
  https://ashleyoneil.github.io/MyProject1/
 
  # Horiseon Screenshots
- ![Website](horiseon.jpg)
+ ![Website](horiseon.JPG)
